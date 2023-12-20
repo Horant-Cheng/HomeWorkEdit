@@ -39,21 +39,21 @@ HomeWorkEdit.exe --class_name [班级名称] --student_list [学生名单文件�
 
 #### **当同学交作业时，在手机上将同学发的QQ文件转发给我的电脑：**
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115183703561.png" alt="image-20231115183703561" style="zoom:50%;"/>
+<img src="./image/image-20231115183703561.png" alt="image-20231115183703561" style="zoom:50%;"/>
 
 可以看到转发后就自动下载了，然后我们就需要查看**下载的路径**：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115184040814.png" alt="image-20231115184040814" style="zoom:67%;" />
+<img src="./image/image-20231115184040814.png" alt="image-20231115184040814" style="zoom:67%;" />
 
 打开文件夹后我们可以看到：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115184302258.png" alt="image-20231115184302258" style="zoom:50%;" />
+<img src="./image/image-20231115184302258.png" alt="image-20231115184302258" style="zoom:50%;" />
 
 #### 复制文件路径
 
 在文件夹上方将地址复制下来（如图**蓝色部分**，复制路径）：
 
-![image-20231115184544472](D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115184544472.png)
+![image-20231115184544472](./image/image-20231115184544472.png)
 
 并修改路径，即将路径中的每一个`\`修改为`\\`**（建议将路径保存在一个txt文件中，方便以后复制）**
 
@@ -63,21 +63,21 @@ HomeWorkEdit.exe --class_name [班级名称] --student_list [学生名单文件�
 
 最直接的方式就是将班级的花名册（excel）选中有学号姓名的区域并复制，在任意位置新建一个txt文件，命名为`student_list`，并粘贴在文件后保存即可：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115193012434.png" alt="image-20231115193012434" style="zoom:50%;" />
+<img src="./image/image-20231115193012434.png" alt="image-20231115193012434" style="zoom:50%;" />
 
 如上图，其中**不要把学号和姓名这几个字复制进去了！**
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115191527406.png" alt="image-20231115191527406" style="zoom:50%;" />
+<img src="./image/image-20231115191527406.png" alt="image-20231115191527406" style="zoom:50%;" />
 
 
 
 创建好之后如图：
 
-![image-20231115191645351](D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115191645351.png)
+<img src="./image/image-20231115191645351.png" alt="image-20231115191645351" style="zoom:80%;" />
 
 内容如图：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115191856272.png" alt="image-20231115191856272" style="zoom:67%;" />
+<img src="./image/image-20231115191856272.png" alt="image-20231115191856272" style="zoom:67%;" />
 
 其中前面是**学号**后面是**姓名**即可，并将其所在文件夹的路径复制下来保存到txt文件中记录，方便后续使用
 
@@ -85,7 +85,7 @@ HomeWorkEdit.exe --class_name [班级名称] --student_list [学生名单文件�
 
 将我的程序解压到文件夹中（没有特定限制位置，记得就行），并打开，如图：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115185556585.png" alt="image-20231115185556585" style="zoom:67%;" />
+<img src="./image/image-20231115185556585.png" alt="image-20231115185556585" style="zoom:67%;" />
 
 
 
@@ -93,11 +93,11 @@ HomeWorkEdit.exe --class_name [班级名称] --student_list [学生名单文件�
 
 然后右键在终端中打开：
 
-<img src="D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115185646054.png" alt="image-20231115185646054" style="zoom:50%;" />
+<img src="./image/image-20231115185646054.png" alt="image-20231115185646054" style="zoom:50%;" />
 
 输入命令，具体如本章的`用法`所示，例如在我这里命令行就这样输入，其中每个参数的含义看本章的`参数说明`版块：
 
-![image-20231115190254648](D:/%E6%A1%8C%E9%9D%A22/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E7%AC%94%E8%AE%B0/image/image-20231115190254648.png)
+![image-20231115190254648](./image/image-20231115190254648.png)
 
 其中**默认是在移动之后删除原来的文件**的（为了防止第二次提交时误把第一次的提交走了），如果不想删除，则在`--student_num 3`后面添加`--move False`
 
